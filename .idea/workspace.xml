@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="79c0ce37-dfc6-40d4-9db6-16707fb06764" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ioAZ1FocboOd96LnsDeh60GgTY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/big_data_api/tool" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\py_dkr\big_data_api\tool" />
+      <recent name="D:\code\py_dkr\big_data_api\123" />
+      <recent name="D:\code\py_dkr\big_data_api\shouye" />
+      <recent name="D:\code\py_dkr\big_data_api\student" />
+      <recent name="D:\code\py_dkr\big_data_api\teacher" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\py_dkr\teacher\data" />
+      <recent name="D:\code\py_dkr\school" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Python39" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python39" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python39" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login_api_new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\code\py_dkr\big_data_api\tool\login_api_new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/big_data_api/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="school_api_cz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/big_data_api/school/school_api_cz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shouye_api_school" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/big_data_api/shouye/shouye_api_school.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student_api_cz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_dkr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/big_data_api/student/student_api_cz.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Python39" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.school_api_cz" />
+      <item itemvalue="Python.student_api_cz" />
+      <item itemvalue="Python.shouye_api_school" />
+      <item itemvalue="Python.login_api_new" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.student_api_cz" />
+        <item itemvalue="Python.login_api_new" />
+        <item itemvalue="Python.shouye_api_school" />
+        <item itemvalue="Python.school_api_cz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="79c0ce37-dfc6-40d4-9db6-16707fb06764" name="Default Changelist" comment="" />
+      <created>1720146607980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720146607980</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="168" width="1092" height="856" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720406732591">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="164" width="1092" height="856" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1720146824933" />
+    <state x="2475" y="168" width="1092" height="856" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720406732591" />
+    <state x="2610" y="228" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1720403044429">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2610" y="228" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720403044429" />
+    <state x="627" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1723605488444">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="627" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1723605488444" />
+    <state x="2547" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720406018971" />
+    <state x="2543" y="63" key="#main" timestamp="1720406080749">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2543" y="63" key="#main/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720406080749" />
+    <state x="2553" y="301" key="EnvironmentVariablesDialog" timestamp="1720406055850">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="633" y="301" key="EnvironmentVariablesDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1720146816005" />
+    <state x="2553" y="301" key="EnvironmentVariablesDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720406055850" />
+    <state x="2610" y="290" key="FileChooserDialogImpl" timestamp="1720406730430">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="290" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1720146801262" />
+    <state x="2610" y="290" key="FileChooserDialogImpl/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720406730430" />
+    <state width="1894" height="318" key="GridCell.Tab.0.bottom" timestamp="1724807283011">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1654" height="315" key="GridCell.Tab.0.bottom/0.0.1680.1002@0.0.1680.1002" timestamp="1722859786144" />
+    <state width="1894" height="318" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724807283011" />
+    <state width="1894" height="273" key="GridCell.Tab.0.bottom/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1724290616902" />
+    <state width="1894" height="318" key="GridCell.Tab.0.center" timestamp="1724807283011">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1654" height="315" key="GridCell.Tab.0.center/0.0.1680.1002@0.0.1680.1002" timestamp="1722859786143" />
+    <state width="1894" height="318" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724807283011" />
+    <state width="1894" height="273" key="GridCell.Tab.0.center/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1724290616902" />
+    <state width="1894" height="318" key="GridCell.Tab.0.left" timestamp="1724807283011">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1654" height="315" key="GridCell.Tab.0.left/0.0.1680.1002@0.0.1680.1002" timestamp="1722859786143" />
+    <state width="1894" height="318" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724807283011" />
+    <state width="1894" height="273" key="GridCell.Tab.0.left/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1724290616902" />
+    <state width="1894" height="318" key="GridCell.Tab.0.right" timestamp="1724807283011">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1654" height="315" key="GridCell.Tab.0.right/0.0.1680.1002@0.0.1680.1002" timestamp="1722859786144" />
+    <state width="1894" height="318" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724807283011" />
+    <state width="1894" height="273" key="GridCell.Tab.0.right/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1724290616902" />
+    <state width="1894" height="330" key="GridCell.Tab.1.bottom" timestamp="1724720731293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.1.bottom/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724720731293" />
+    <state width="1894" height="330" key="GridCell.Tab.1.bottom/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720405639689" />
+    <state width="1894" height="330" key="GridCell.Tab.1.center" timestamp="1724720731292">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.1.center/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724720731292" />
+    <state width="1894" height="330" key="GridCell.Tab.1.center/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720405639688" />
+    <state width="1894" height="330" key="GridCell.Tab.1.left" timestamp="1724720731292">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.1.left/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724720731292" />
+    <state width="1894" height="330" key="GridCell.Tab.1.left/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720405639688" />
+    <state width="1894" height="330" key="GridCell.Tab.1.right" timestamp="1724720731293">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1894" height="330" key="GridCell.Tab.1.right/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724720731293" />
+    <state width="1894" height="330" key="GridCell.Tab.1.right/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720405639688" />
+    <state x="1957" y="78" key="SettingsEditor" timestamp="1720403400072">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1957" y="78" key="SettingsEditor/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720403400072" />
+    <state x="577" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1724721305525">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="505" y="290" key="com.intellij.ide.util.TipDialog/0.0.1680.1002@0.0.1680.1002" timestamp="1722858882545" />
+    <state x="577" y="299" key="com.intellij.ide.util.TipDialog/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724721305525" />
+    <state x="2497" y="299" key="com.intellij.ide.util.TipDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1723182279266" />
+    <state x="996" y="187" width="771" height="654" key="find.popup" timestamp="1724637964717">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="996" y="187" width="771" height="654" key="find.popup/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724637964717" />
+    <state x="2494" y="189" width="771" height="654" key="find.popup/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1724290528472" />
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup" timestamp="1724233353959">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="0" width="840" height="1030" key="search.everywhere.popup/1920.0.1920.1032/0.0.1920.1032@0.0.1920.1032" timestamp="1724233353959" />
+    <state x="2600" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1720403724911">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2600" y="414" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1032/0.0.1920.1032@1920.0.1920.1032" timestamp="1720403724911" />
+  </component>
+</project>

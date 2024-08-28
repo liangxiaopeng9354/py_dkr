@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/school_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/teacher_test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/teacher_test/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/edit_excel" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/edit_log" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data/student" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data/school" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data_api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data_api/tool" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data_api/teacher" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data_api/shouye" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data_api/student" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/big_data_api/school" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (jhxt_api)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
